@@ -18,7 +18,7 @@ nano <filename>
 مثلاً:
 
 ```bash
-nano script.sh
+nano myscript.sh
 ```
 
 بعد فتح الملف يمكننا البدء بكتابة أوامر Bash بداخله.
