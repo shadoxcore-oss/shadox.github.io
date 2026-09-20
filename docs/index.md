@@ -10,6 +10,6 @@
 
 تعلم Bash وإنشاء Scripts لأتمتة المهام والتعامل مع Linux من خلال الطرفية.
 
-[ابدأ مسار Bash](00-Bash/00-Bash-Introduction.md)
+[ابدأ مسار Bash](00-Programing/98-Project/01-Shadox-web/shadox.github.io/docs/00-Bash/01-Bash-Introduction.md)
 
 **سيتم إضافة المزيد من المسارات مستقبلا**

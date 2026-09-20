@@ -201,7 +201,7 @@ echo "Age: $age"
 
 # روابط مفيدة :
 
-- [الدرس السابق : مقدمة إلى Bash](00-Bash-Introduction.md)
+- [الدرس السابق : مقدمة إلى Bash](00-Programing/98-Project/01-Shadox-web/shadox.github.io/docs/00-Bash/01-Bash-Introduction.md)
 
 
 
