@@ -1,2 +1,2 @@
-
-- 00-Bash/*.md
+- Bash
+    - 00-Bash/*.md
