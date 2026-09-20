@@ -201,7 +201,7 @@ echo "Age: $age"
 
 # روابط مفيدة :
 
-- [الدرس السابق : مقدمة إلى Bash](../00-Bash/00-Bash-Variables)
+- [الدرس السابق : مقدمة إلى Bash](00-Bash-Introduction.md)
 
 
 
