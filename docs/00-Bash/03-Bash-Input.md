@@ -166,7 +166,9 @@ echo "Hello, $name"
 Hello, my name is "الإسم". I am "العمر" years old, and I live in "البلد"
 ```
 
-### مثال على النتيجة:
+
+**مثال على النتيجة:**
+
 
 ```text
 Enter your name: Ahmed
@@ -181,3 +183,8 @@ Hello, my name is Ahmed. I am 53 years old, and I live in Egypt.
 ## روابط مفيدة :
 
 - [الدرس السابق](02-Bash-Variables.md)
+
+
+
+آخر تحديث : 21-09-2026
+
