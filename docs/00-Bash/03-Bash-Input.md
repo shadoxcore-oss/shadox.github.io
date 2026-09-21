@@ -34,4 +34,4 @@ echo "Hello , $name"
 
 هذه خطوات و نتيجتها النهائية :
 
-![شرح استخدام read](Photo/input1.gif)
+![شرح استخدام read](../Photo/input1.gif)
